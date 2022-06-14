@@ -1,7 +1,34 @@
-# ElenaJoyPortfolio
+<h1 align="center">Elena Joy Portfolio</h1>
 
-https://theoladas.github.io/ElenaJoyPortfolio/
+<div align="center">
+A portfolio website for photographer Elena Joy
+</div>
 
-<img width="1437" alt="Screenshot 2021-09-26 at 19 58 31" src="https://user-images.githubusercontent.com/67963370/134820782-e65e3a25-48ae-425a-9ab1-01e52c684edd.png">
+<div align="center">
+  <h3>
+    <a href="https://theoladas.github.io/ElenaJoyPortfolio/">
+      Live
+    </a>
+  </h3>
+</div>
 
-A Portfolio Website for Elena Joy. Based project from Dev Ed's : "The Creative HTML5 &amp; CSS3 Course"
+## Table of Contents
+
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Contact](#contact)
+
+## Overview
+
+Desktop
+
+![screencapture-theoladas-github-io-ElenaJoyPortfolio-2022-06-14-15_36_48](https://user-images.githubusercontent.com/67963370/173604603-37b54362-1446-4145-8893-52b6dcc54bfd.png)
+
+### Built With
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Contact
+
+- GitHub [@theoladas](https://github.com/theoladas)
